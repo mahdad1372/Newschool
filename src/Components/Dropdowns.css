@@ -1,0 +1,24 @@
+.text-style1 {
+    cursor: pointer;
+    color: white ;
+  
+  }
+
+
+  .text-style2 {
+    cursor: pointer;
+    color: #BDC3C7 ;
+  
+  }
+  .text-style2:hover {
+    cursor: pointer;
+    color: white ;
+  
+  }
+
+.line2{
+    background-color: black;
+    height: 1px;
+    width: 100%;
+}
+  
